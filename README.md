@@ -1,4 +1,4 @@
-# Awesome-Sports-Analytics
+# Awesome-Sports-Analytics [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 This repo contains a comprehensive paper list of sports analytics, including papers, codes, and related websites.
 
 This list is maintained by [Wei-Yao Wang](https://wywywang.github.io/). (Actively keep updating)
