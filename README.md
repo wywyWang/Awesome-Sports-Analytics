@@ -20,6 +20,7 @@ Feel free to share this list with others!
 - [Baseball](#baseball)
 - [Ice Hockey](#ice-hockey)
 - [Table Tennis](#table-tennis)
+- [Other Sports](#other-sports)
 - [Across Multiple Sports](#across-multiple-sports)
 
 ---
@@ -33,21 +34,28 @@ Feel free to share this list with others!
 - "How Is the Stroke? Inferring Shot Influence in Badminton Matches via Long Short-term Dependencies", ACM TIST, 2022 (*National Yang Ming Chiao Tung University*). [[Paper](https://dl.acm.org/doi/full/10.1145/3551391)] [[Code](https://github.com/wywyWang/CoachAI-Projects/tree/main/Shot%20Influence)]
 - "ShuttleNet: Position-Aware Fusion of Rally Progress and Player Styles for Stroke Forecasting in Badminton", AAAI, 2022 (*National Yang Ming Chiao Tung University*). [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20341)] [[Code](https://github.com/wywyWang/CoachAI-Projects/tree/main/Stroke%20Forecasting)]
 - "Exploring the Long Short-Term Dependencies to Infer Shot Influence in Badminton Matches", ICDM, 2021 (*National Yang Ming Chiao Tung University*). [[Paper](https://ieeexplore.ieee.org/document/9679184)] [[Code](https://github.com/wywyWang/CoachAI-Projects/tree/main/Shot%20Influence)]
+- "Badminton match outcome prediction model using Naïve Bayes and Feature Weighting technique", JAIHC, 2020 (*MRSPTU + Banasthali Vidyapith + Panjab University*). [[Paper](https://link.springer.com/article/10.1007/s12652-020-02578-8)]
 - "Badminton Coach AI: A Badminton Match Data Analysis Platform Based on Deep Learning", Physical Education Journal, 2020 (*National Yang Ming Chiao Tung University*). [[Paper](https://www.airitilibrary.com/Publication/alDetailedMesh?docid=10247297-202006-202007060015-202007060015-201-213)] [[Code](https://github.com/wywyWang/CoachAI-Projects/tree/main/Visualization%20Platform)]
 - "Feasibility of Smartphone-Based Badminton Footwork Performance Assessment System", Sensors, 2020 (*National Cheng Kung University + National Yang Ming Chiao Tung University*). [[Paper](https://www.mdpi.com/1424-8220/20/21/6035)]
 - "CoachAI: A Project for Microscopic Badminton Match Data Collection and Tactical Analysis", APNOMS, 2019 (*National Yang Ming Chiao Tung University*). [[Paper](https://ieeexplore.ieee.org/document/8893039)]
+- "Badminton Video Analysis based on Spatiotemporal and Stroke Features", ICMR, 2017 (*National Chung Cheng University*). [[Paper](https://dl.acm.org/doi/10.1145/3078971.3079032)]
+- "Application of Computer Vision and Vector Space Model for Tactical Movement Classification in Badminton", CVPRW, 2017 (*Monash University*). [[Paper](https://ieeexplore.ieee.org/document/8014756)]
 
 [[Back to Overview](#overview)]
 
 ---
 
 ## Soccer
+- "Temporally-Aware Feature Pooling for Action Spotting in Soccer Broadcasts", CVPRW, 2021 (*King Abdullah University of Science and Technology*). [[Paper](https://www.computer.org/csdl/proceedings-article/cvprw/2021/489900e485/1yVzM2e6PhC)] [[Code](https://github.com/SilvioGiancola/SoccerNetv2-DevKit/tree/main/Task1-ActionSpotting/TemporallyAwarePooling)]
 - "A Bayesian Approach to In-Game Win Probability in Soccer", KDD, 2021 (*KU Leuven*). [[Paper](https://dl.acm.org/doi/10.1145/3447548.3467194)]
 - "What Happened Next? Using Deep Learning to Value Defensive Actions in Football Event-Data", KDD, 2021 (*University of Southampton + Sentient Sports*). [[Paper](https://dl.acm.org/doi/10.1145/3447548.3467090)]
 - "Google Research Football: A Novel Reinforcement Learning Environment", AAAI, 2020 (*Google*). [[Paper](https://arxiv.org/abs/1907.11180)] [[Code](https://github.com/google-research/football)]
+- "Optimising Game Tactics for Football", AAMAS, 2020 (*University of Southampton + Technical University of Crete + University of Aberdeen*). [[Paper](https://dl.acm.org/doi/10.5555/3398761.3398783)]
+- "PlayeRank: Data-driven Performance Evaluation and Player Ranking in Soccer via a Machine Learning Approach", ACM TIST, 2019 (*ISTI-CNR + University of Pisa*). [[Paper](https://dl.acm.org/doi/10.1145/3343172)] [[Code](https://github.com/mesosbrodleto/playerank)]
 - "Effective and Efficient Sports Play Retrieval with Deep Representation Learning", KDD, 2019 (*Nanyang Technological University*). [[Paper](https://dl.acm.org/doi/10.1145/3292500.3330927)] [[Code](https://github.com/zhengwang125/play2vec)]
 - "Actions Speak Louder than Goals: Valuing Player Actions in Soccer", KDD, 2019 (*KU Leuven*). [[Paper](https://dl.acm.org/doi/10.1145/3292500.3330758)] [[Code](https://github.com/ML-KULeuven/socceraction)]
 - "Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data", KDD, 2018 (*KU Leuven*). [[Paper](https://dl.acm.org/doi/10.1145/3219819.3219832)]
+- "Predicting Soccer Highlights from Spatio-Temporal Match Event Streams", AAAI, 2017 (*KU Leuven*). [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/10754)]
 
 [[Back to Overview](#overview)]
 
@@ -80,8 +88,13 @@ Feel free to share this list with others!
 
 [[Back to Overview](#overview)]
 
-## Across Multiple Sports
+## Other Sports
 - 
+
+[[Back to Overview](#overview)]
+
+## Across Multiple Sports
+- "Cracking the Black Box: Distilling Deep Sports Analytics", KDD, 2020 (*Simon Fraser University*). [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403367)] [[Code](https://github.com/xiangyu-sun-789/Cracking-the-Black-Box-Distilling-Deep-Sports-Analytics)]
 
 [[Back to Overview](#overview)]
 
