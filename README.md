@@ -1,5 +1,7 @@
 # Awesome-Sports-Analytics [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2023.02-lightgrey.svg)![Topic](https://img.shields.io/badge/Topic-sports%20analytics-yellow?logo=github)
+
+
 This repo contains a comprehensive paper list of sports analytics, including papers, codes, and related websites.
 
 
